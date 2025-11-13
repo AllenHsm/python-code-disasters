@@ -27,3 +27,4 @@ It is still not clear to me, how to structure this project.
 Pythod bad code examples, Python antipatterns 
 
 ### Add this line to test triggering jenkins build with mapreduce
+ 
