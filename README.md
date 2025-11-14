@@ -24,7 +24,7 @@ It is generally a good practice to read through your old files and contribute yo
 It is still not clear to me, how to structure this project. 
  
 ### Keywords
-Pythod bad code examples, Python antipatterns  
+Pythod bad code examples, Python antipatterns   
 
 ### Add this line to test triggering jenkins build with mapreduce   
    
