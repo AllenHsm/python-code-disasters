@@ -26,6 +26,6 @@ It is still not clear to me, how to structure this project.
 ### Keywords
 Pythod bad code examples, Python antipatterns  
 
-### Add this line to test triggering jenkins build with mapreduce  
+### Add this line to test triggering jenkins build with mapreduce   
    
  
