@@ -10,7 +10,7 @@ Privacy is very important. There are two things basically:
 2. It is not a goal of this project to insult or offend anyone, so, please, remove any brand-names, user marks, `__author__` variables and so on.
 
 ## Save yourself! 
-
+ 
 Do you want to save yourself and your project from a `python` code disaster? 
 Then use [`wemake-python-styleguide`](https://github.com/wemake-services/wemake-python-styleguide) which is the strictest `python` linter in existance. 
 With this tool all your code will be awesome!
